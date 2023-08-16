@@ -1,0 +1,47 @@
+
+.page{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #A0C49D;
+}
+.about{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.about h1{
+    width: 70%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: wheat;
+}
+.about p{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 2rem;
+    font-size: 1.07rem;
+}
+
+
+.contact-us
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table, th, td {
+    background-color: wheat;
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    color: black;
+}
